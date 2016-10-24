@@ -1,2 +1,7 @@
 # rfl-sme-app
-WTF
+A documents and project wiki for newSMELink-app. http://smelink.animation-genius.com/
+
+Maintain by AhooStudio.co.th & RFL
+
+Maintainers : 
+- mzget : nattapon.r@live.com 
