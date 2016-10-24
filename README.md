@@ -4,4 +4,4 @@ A documents and project wiki for newSMELink-app. http://smelink.animation-genius
 Maintain by AhooStudio.co.th & RFL
 
 Maintainers : 
-- mzget : nattapon.r@live.com 
+- AhooStudio teams.
